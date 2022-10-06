@@ -1,0 +1,11 @@
+MtReto3\demo\repository\ProductRepository.class
+MtReto3\demo\repository\crudRepository\ProductCrudRepository.class
+MtReto3\demo\controller\CategoryController.class
+MtReto3\demo\entities\Product.class
+MtReto3\demo\repository\CategoryRepository.class
+MtReto3\demo\controller\ProductController.class
+MtReto3\demo\Reto3MasterclassApplication.class
+MtReto3\demo\service\ProductService.class
+MtReto3\demo\entities\Category.class
+MtReto3\demo\service\CategoryService.class
+MtReto3\demo\repository\crudRepository\CategoryCrudRepository.class
